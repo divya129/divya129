@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya
 - 👀 I’m interested in Anything and Everything Automatable 
-- 🌱 I’m currently learning advanced concepts of Automation via Python & Java
+- 🌱 I’m currently learning advanced concepts of Automation via Python
 
 
 <!---
